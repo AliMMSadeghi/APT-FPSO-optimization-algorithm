@@ -11,6 +11,7 @@ This repository features the Adaptive Particularly Tunable Fuzzy Particle Swarm 
 
 ## Features
 - Four different versions of the APT-FPSO algorithm are provided with different rule-base structures.
+- The repository focuses on a single benchmark function, Griewangk.
 
 ## Usage
 To run the main file for the project, use the following command in MATLAB:
