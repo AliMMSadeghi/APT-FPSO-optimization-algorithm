@@ -3,7 +3,7 @@ MATLAB code for the Adaptive Particularly Tunable Fuzzy PSO (APT-FPSO) algorithm
 
 <!-- Use HTML to center and resize the image -->
 <div align="center">
-  <img src="Flowchart.jpg" alt="Project Image" width="400px">
+  <img src="Flowchart.jpg" alt="Project Image" width="600px">
 </div>
 
 ## Overview
