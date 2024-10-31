@@ -11,17 +11,8 @@ This repository features the Adaptive Particularly Tunable Fuzzy Particle Swarm 
 - The road test corresponds to three hard-braking maneuvers on a road with a high friction coefficient.
 - The friction coefficient of the road is measured from the maximum braking longitudinal acceleration before ABS activation.
 
-## Installation
-To get started, follow these steps:
-
-**Clone the repository**:
-    ```sh
-    git clone https://github.com/AliMMSadeghi/Data-driven-Maximum-Tire-Road-Friction-Coefficient-Prediction.git
-    ```
 ## Usage
 To run the main file for the project, use the following command in MATLAB:
 
 ```matlab
-ALLTOXYZ.m
-
-and select the "coarse-output_2020-12-18_15-21-19.xls" file.
+pso_simulation_fit_fun_Griewangk_fl_4_8_20.m
